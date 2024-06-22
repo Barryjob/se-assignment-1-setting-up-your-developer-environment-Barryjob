@@ -45,6 +45,7 @@ https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environmen
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 screenshot to my mysql
 https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/WhatsApp%20Image%202024-06-22%20at%2013.46.28_1b7ce044.jpg
+https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/2024-06-22%20at%2013.48.49_9ec33ae1.jpg
 
 12. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
