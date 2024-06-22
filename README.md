@@ -31,20 +31,21 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 6. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(31).png
 
-7. Install Package Managers:
+8. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
-8. Configure a Database (MySQL):
+9. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
-9. Set Up Development Environments and Virtualization (Optional):
+10. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-10. Explore Extensions and Plugins:
+11. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-11. Document Your Setup:
+12. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
