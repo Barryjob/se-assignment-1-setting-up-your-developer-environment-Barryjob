@@ -18,6 +18,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
    https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Barryjob/issues/3#issue-2367799434
+   https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(1).png
 
 5. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
