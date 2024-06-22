@@ -12,10 +12,12 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+   screnshot of my window 11
+   https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(29).png
 
-2. Install a Text Editor or Integrated Development Environment (IDE):
+3. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
-3. Set Up Version Control System:
+4. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
    https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Barryjob/issues/3#issue-2367799434
    https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(1).png
