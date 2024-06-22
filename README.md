@@ -39,6 +39,7 @@ https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environmen
    
    i installed virtualevn and django with pip
    https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(33).png
+   https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(36).png
 
 10. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
