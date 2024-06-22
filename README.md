@@ -18,22 +18,25 @@ This assignment aims to familiarize you with the tools and configurations necess
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
-4. Install Necessary Programming Languages and Runtimes:
+   ![image](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Barryjob/assets/100874853/a07232a6-60df-4bff-9fd2-039525e68e20)
+
+
+5. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
-5. Install Package Managers:
+6. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
-6. Configure a Database (MySQL):
+7. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
-7. Set Up Development Environments and Virtualization (Optional):
+8. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-8. Explore Extensions and Plugins:
+9. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-9. Document Your Setup:
+10. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
