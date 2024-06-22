@@ -36,17 +36,20 @@ https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environmen
 
 8. Install Package Managers:
    If applicable, install package managers like pip (Python).
+   
+   i installed virtualevn and django with pip
+   https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(33).png
 
-9. Configure a Database (MySQL):
+10. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
-10. Set Up Development Environments and Virtualization (Optional):
+11. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-11. Explore Extensions and Plugins:
+12. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-12. Document Your Setup:
+13. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
