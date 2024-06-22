@@ -31,6 +31,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 6. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(32).png
 https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(31).png
 
 8. Install Package Managers:
