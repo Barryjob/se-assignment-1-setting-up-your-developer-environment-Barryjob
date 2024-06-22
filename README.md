@@ -43,14 +43,16 @@ https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environmen
 
 10. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+screenshot to my mysql
+https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/WhatsApp%20Image%202024-06-22%20at%2013.46.28_1b7ce044.jpg
 
-11. Set Up Development Environments and Virtualization (Optional):
+12. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-12. Explore Extensions and Plugins:
+13. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-13. Document Your Setup:
+14. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
