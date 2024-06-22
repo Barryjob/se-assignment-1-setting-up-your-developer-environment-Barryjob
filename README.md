@@ -21,6 +21,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
    screenshots to my IDE
    https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(24).png
+   https://github.com/Barryjob/se-assignment-1-setting-up-your-developer-environment-Barryjob/blob/main/Screenshot%20(25).png
 
    
 5. Set Up Version Control System:
